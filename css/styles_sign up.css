@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;700&family=Kanit:ital,wght@1,300&display=swap");
+
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.center-align {
+  color: black;
+  text-align: center;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 20px;
+}
+
+.text {
+  color: black;
+  font-weight: normal;
+  font-size: 15px;
+  position: absolute;
+  width: 200px;
+  height: 23px;
+  left: 480px;
+  top: 350px;
+}
+
+.textbox {
+  margin-bottom: 20px;
+  height: 38px;
+  width: 161px;
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.textboxemail {
+  margin-bottom: 20px;
+  height: 38px;
+  width: 347px;
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.checkbox {
+  color: black;
+  font-weight: normal;
+  font-size: 15px;
+  position: absolute;
+  left: 512px;
+  margin-top: 10px;
+}
+
+.btn-submit {
+  color: white;
+  width: 347px;
+  height: 60px;
+  background: linear-gradient(180deg, #f8a5e0 0%, #4166e9 100%);
+  border: 1px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.btn {
+  width: 400px;
+  height: 40px;
+  background: linear-gradient(180deg, #d15fee 0%, #9a32cd 100%);
+  border-radius: 10px;
+}
+
+.form-control {
+  align-items: center;
+}
+
+.navbar {
+  background: #dda0dd;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.col {
+  width: 80px;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+}

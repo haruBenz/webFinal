@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;700&family=Kanit:ital,wght@1,300&display=swap");
+
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+.center-align {
+  font-size: 15px;
+}
+
+.form-label {
+  font-weight: bold;
+  font-size: 35px;
+  margin-top: 50px;
+}
+
+.page-link {
+  color: black;
+  text-align: center;
+  width: 200px;
+  background: #edb0f8 100%;
+}
+
+.button {
+  position: absolute;
+  top: 65px;
+  left: 872px;
+}
+
+.img-fluid {
+  margin-top: 16px;
+  margin-left: 10px;
+}
+
+.card {
+  border-radius: 10px;
+  align-items: center;
+}
+
+.card-coler1 {
+  background-color: #edb0f8;
+}
+
+.card-coler2 {
+  background-color: #f5e6f8;
+}
+
+.card-coler3 {
+  background-color: #f5e6f8;
+}
+
+.card-coler4 {
+  background-color: #f5e6f8;
+}
+
+.table {
+  text-align: center;
+}
+
+.btn-coler {
+  width: 100px;
+  height: 40px;
+  background: linear-gradient(180deg, #d15fee 0%, #9a32cd 100%);
+  border-radius: 10px;
+  color: white;
+}
+
+.container {
+  align-items: center;
+}

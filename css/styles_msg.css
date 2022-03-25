@@ -1,0 +1,21 @@
+#count {
+  border-radius: 50%;
+  position: relative;
+  top: -10px;
+  left: -10px;
+}
+
+#center {
+  margin-top: 30px;
+}
+
+#table1 {
+  margin-top: 5% !important;
+}
+
+.btn-last {
+  width: 400px;
+  height: 40px;
+  background: linear-gradient(180deg, #d15fee 0%, #9a32cd 100%);
+  border-radius: 10px;
+}
